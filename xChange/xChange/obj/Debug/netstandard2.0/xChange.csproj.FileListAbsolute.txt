@@ -1,0 +1,89 @@
+C:\Users\Marko\source\repos\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.deps.json
+C:\Users\Marko\source\repos\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.dll
+C:\Users\Marko\source\repos\xChange\xChange\xChange\bin\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\Marko\source\repos\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.pdb
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfo.cs
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.dll
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.pdb
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\Convert.xaml.g.cs
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\Currency.xaml.g.cs
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\Rates.xaml.g.cs
+C:\Users\Marko\source\repos\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.deps.json
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.dll
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\bin\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.pdb
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\Convert.xaml.g.cs
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\Currency.xaml.g.cs
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\Rates.xaml.g.cs
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.dll
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\LENOVO\Downloads\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.pdb
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\Convert.xaml.g.cs
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\Currency.xaml.g.cs
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\Rates.xaml.g.cs
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.dll
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.pdb
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.deps.json
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.dll
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\bin\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.pdb
+C:\Users\LENOVO\Desktop\xChange\xChange\xChange\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.deps.json
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.dll
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\bin\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.pdb
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\Convert.xaml.g.cs
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\Currency.xaml.g.cs
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\Rates.xaml.g.cs
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfo.cs
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.dll
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\Marko\source\repos\xChange (1)\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.pdb
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.deps.json
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.dll
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\bin\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\bin\Debug\netstandard2.0\xChange.pdb
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\Convert.xaml.g.cs
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\Currency.xaml.g.cs
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\Rates.xaml.g.cs
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.dll
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\ref\xChange.dll
+C:\Users\LENOVO\Desktop\fsk\Razvoj aplikacija mobilnih uređaja\xChange\xChange\xChange\obj\Debug\netstandard2.0\xChange.pdb

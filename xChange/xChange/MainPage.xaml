@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xChange.MainPage">
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center" BackgroundColor="Transparent" >
+            <Label Text="xChange"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+    <StackLayout BackgroundColor="Black">
+        <Label Text="xChange" TextColor="White" FontSize="40" 
+               Padding="100, 50, 100, 30" HorizontalTextAlignment="Center"/>
+        <Image Source="logo.png" HeightRequest="100"/>
+        <StackLayout Padding="10,50,10,0" Spacing="20" >
+            <Button Text="Convert" BackgroundColor="White" 
+                    CornerRadius="7" Clicked="Button_Clicked"/>
+            <Button Text="Exchange rates" BackgroundColor="White"
+                    CornerRadius="7" Clicked="Button_Clicked_1" />
+            <Button Text="Currency list" BackgroundColor="White" 
+                    CornerRadius="7" Clicked="Button_Clicked_2"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

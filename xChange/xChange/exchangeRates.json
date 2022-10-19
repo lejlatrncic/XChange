@@ -1,0 +1,169 @@
+﻿{
+  "CurrencyExchangeItems": [
+    {
+      "Country": "EMU",
+      "NumCode": "978",
+      "AlphaCode": "EUR",
+      "Units": "1",
+      "Buy": "1,955830",
+      "Middle": "1,955830",
+      "Sell": "1,955830"
+    },
+    {
+      "Country": "Australija",
+      "NumCode": "036",
+      "AlphaCode": "AUD",
+      "Units": "1",
+      "Buy": "1,243667",
+      "Middle": "1,246784",
+      "Sell": "1,249901"
+    },
+    {
+      "Country": "Kanada",
+      "NumCode": "124",
+      "AlphaCode": "CAD",
+      "Units": "1",
+      "Buy": "1,328345",
+      "Middle": "1,331674",
+      "Sell": "1,335003"
+    },
+    {
+      "Country": "Hrvatska",
+      "NumCode": "191",
+      "AlphaCode": "HRK",
+      "Units": "100",
+      "Buy": "26,042054",
+      "Middle": "26,107322",
+      "Sell": "26,172590"
+    },
+    {
+      "Country": "Češka R",
+      "NumCode": "203",
+      "AlphaCode": "CZK",
+      "Units": "1",
+      "Buy": "0,077006",
+      "Middle": "0,077199",
+      "Sell": "0,077392"
+    },
+    {
+      "Country": "Danska",
+      "NumCode": "208",
+      "AlphaCode": "DKK",
+      "Units": "1",
+      "Buy": "0,262360",
+      "Middle": "0,263018",
+      "Sell": "0,263676"
+    },
+    {
+      "Country": "Mađarska",
+      "NumCode": "348",
+      "AlphaCode": "HUF",
+      "Units": "100",
+      "Buy": "0,563465",
+      "Middle": "0,564877",
+      "Sell": "0,566289"
+    },
+    {
+      "Country": "Japan",
+      "NumCode": "392",
+      "AlphaCode": "JPY",
+      "Units": "100",
+      "Buy": "1,468197",
+      "Middle": "1,471877",
+      "Sell": "1,475557"
+    },
+    {
+      "Country": "Norveška",
+      "NumCode": "578",
+      "AlphaCode": "NOK",
+      "Units": "1",
+      "Buy": "0,193492",
+      "Middle": "0,193977",
+      "Sell": "0,194462"
+    },
+    {
+      "Country": "Švedska",
+      "NumCode": "752",
+      "AlphaCode": "SEK",
+      "Units": "1",
+      "Buy": "0,193847",
+      "Middle": "0,194333",
+      "Sell": "0,194819"
+    },
+    {
+      "Country": "Švicarska",
+      "NumCode": "756",
+      "AlphaCode": "CHF",
+      "Units": "1",
+      "Buy": "1,792649",
+      "Middle": "1,797142",
+      "Sell": "1,801635"
+    },
+    {
+      "Country": "Turska",
+      "NumCode": "949",
+      "AlphaCode": "TRY",
+      "Units": "1",
+      "Buy": "0,191326",
+      "Middle": "0,191806",
+      "Sell": "0,192286"
+    },
+    {
+      "Country": "V.Britanija",
+      "NumCode": "826",
+      "AlphaCode": "GBP",
+      "Units": "1",
+      "Buy": "2,276211",
+      "Middle": "2,281916",
+      "Sell": "2,287621"
+    },
+    {
+      "Country": "SAD",
+      "NumCode": "840",
+      "AlphaCode": "USD",
+      "Units": "1",
+      "Buy": "1,609023",
+      "Middle": "1,613056",
+      "Sell": "1,617089"
+    },
+    {
+      "Country": "Rusija",
+      "NumCode": "643",
+      "AlphaCode": "RUB",
+      "Units": "1",
+      "Buy": "0,022435",
+      "Middle": "0,022491",
+      "Sell": "0,022547"
+    },
+    {
+      "Country": "Kina",
+      "NumCode": "156",
+      "AlphaCode": "CNY",
+      "Units": "1",
+      "Buy": "0,251672",
+      "Middle": "0,252303",
+      "Sell": "0,252934"
+    },
+    {
+      "Country": "Srbija ",
+      "NumCode": "941",
+      "AlphaCode": "RSD",
+      "Units": "100",
+      "Buy": "1,659380",
+      "Middle": "1,663539",
+      "Sell": "1,667698"
+    },
+    {
+      "Country": "MMF",
+      "NumCode": "960",
+      "AlphaCode": "XDR",
+      "Units": "1",
+      "Buy": "",
+      "Middle": "2,317033",
+      "Sell": ""
+    }
+  ],
+  "Date": "2021-06-12T00:00:00",
+  "Comments": [],
+  "Number": 115
+}

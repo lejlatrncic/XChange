@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xChange.Currency">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Margin="5,5,0,0" Text="Most Traded" BackgroundColor="Yellow" Clicked="Button_Clicked" Grid.Column="0" BorderWidth="3" BorderColor="#FFEF00" CornerRadius="3"/>
+                <Button Margin="0,5,0,0" Text="Highest Value" BackgroundColor="Green" Clicked="Button_Clicked_1" Grid.Column="1" BorderWidth="3" BorderColor="DarkGreen" CornerRadius="3"/>
+                <Button Margin="0,5,5,0" Text="Weakest Value" Font="13" BackgroundColor="Red" Clicked="Button_Clicked_2" Grid.Column="2" BorderWidth="3" BorderColor="DarkRed" CornerRadius="3"/>
+            </Grid>
+            <Label x:Name="naslov" Text="Top 10: World's Most Traded Currencies" FontSize="Large" HorizontalOptions="Center"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="Flag" BackgroundColor="White" TextColor="Black" Grid.Column="1" Grid.Row="0"/>
+                <Label Text="Teritory" BackgroundColor="White" TextColor="Black" Grid.Column="2" Grid.Row="0"/>
+                <Label Text="Currency" BackgroundColor="White" TextColor="Black" Grid.Column="3" Grid.Row="0"/>
+                <Label Text="Symbol" BackgroundColor="White" TextColor="Black" Grid.Column="4" Grid.Row="0"/>
+                <Label Text="Code" BackgroundColor="White" TextColor="Black" Grid.Column="5" Grid.Row="0"/>
+                <Label Text="1." Grid.Column="0" Grid.Row="1"/>
+                <Label Text="2." Grid.Column="0" Grid.Row="2"/>
+                <Label Text="3." Grid.Column="0" Grid.Row="3"/>
+                <Label Text="4." Grid.Column="0" Grid.Row="4"/>
+                <Label Text="5." Grid.Column="0" Grid.Row="5"/>
+                <Label Text="6." Grid.Column="0" Grid.Row="6"/>
+                <Label Text="7." Grid.Column="0" Grid.Row="7"/>
+                <Label Text="8." Grid.Column="0" Grid.Row="8"/>
+                <Label Text="9." Grid.Column="0" Grid.Row="9"/>
+                <Label Text="10." Grid.Column="0" Grid.Row="10"/>
+                <Image x:Name="slika1"  Grid.Column="1" Grid.Row="1" Source="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"/>
+                <Label x:Name="ter1" Grid.Column="2" Grid.Row="1" Text="United States"/>
+                <Label x:Name="cur1" Grid.Column="3" Grid.Row="1" Text="US Dollar"/>
+                <Label x:Name="sym1" Grid.Column="4" Grid.Row="1" Text="$"/>
+                <Label x:Name="cod1" Grid.Column="5" Grid.Row="1" Text="USD"/>
+                <Image x:Name="slika2" Grid.Column="1" Grid.Row="2" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/125px-Flag_of_Europe.svg.png"/>
+                <Label x:Name="ter2" Grid.Column="2" Grid.Row="2" Text="European Union"/>
+                <Label x:Name="cur2" Grid.Column="3" Grid.Row="2" Text="Euro"/>
+                <Label x:Name="sym2" Grid.Column="4" Grid.Row="2" Text="€"/>
+                <Label x:Name="cod2" Grid.Column="5" Grid.Row="2" Text="EUR"/>
+                <Image x:Name="slika3" Grid.Column="1" Grid.Row="3" Source="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png"/>
+                <Label x:Name="ter3" Grid.Column="2" Grid.Row="3" Text="Japan"/>
+                <Label x:Name="cur3" Grid.Column="3" Grid.Row="3" Text="Yen"/>
+                <Label x:Name="sym3" Grid.Column="4" Grid.Row="3" Text="¥"/>
+                <Label x:Name="cod3" Grid.Column="5" Grid.Row="3" Text="JPY"/>
+                <Image x:Name="slika4" Grid.Column="1" Grid.Row="4" Source="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png"/>
+                <Label x:Name="ter4" Grid.Column="2" Grid.Row="4" Text="United Kingdom"/>
+                <Label x:Name="cur4" Grid.Column="3" Grid.Row="4" Text="Pound Sterling"/>
+                <Label x:Name="sym4" Grid.Column="4" Grid.Row="4" Text="£"/>
+                <Label x:Name="cod4" Grid.Column="5" Grid.Row="4" Text="GBP"/>
+                <Image x:Name="slika5" Grid.Column="1" Grid.Row="5" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png"/>
+                <Label x:Name="ter5" Grid.Column="2" Grid.Row="5" Text="Australia"/>
+                <Label x:Name="cur5" Grid.Column="3" Grid.Row="5" Text="AU Dollar"/>
+                <Label x:Name="sym5" Grid.Column="4" Grid.Row="5" Text="$"/>
+                <Label x:Name="cod5" Grid.Column="5" Grid.Row="5" Text="AUD"/>
+                <Image x:Name="slika6" Grid.Column="1" Grid.Row="6" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png"/>
+                <Label x:Name="ter6" Grid.Column="2" Grid.Row="6" Text="Canada"/>
+                <Label x:Name="cur6" Grid.Column="3" Grid.Row="6" Text="CA Dollar"/>
+                <Label x:Name="sym6" Grid.Column="4" Grid.Row="6" Text="$"/>
+                <Label x:Name="cod6" Grid.Column="5" Grid.Row="6" Text="CAD"/>
+                <Image x:Name="slika7" Grid.Column="1" Grid.Row="7" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png"/>
+                <Label x:Name="ter7" Grid.Column="2" Grid.Row="7" Text="Switzerland"/>
+                <Label x:Name="cur7" Grid.Column="3" Grid.Row="7" Text="Franc"/>
+                <Label x:Name="sym7" Grid.Column="4" Grid.Row="7" Text="Fr."/>
+                <Label x:Name="cod7" Grid.Column="5" Grid.Row="7" Text="CHF"/>
+                <Image x:Name="slika8" Grid.Column="1" Grid.Row="8" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png"/>
+                <Label x:Name="ter8" Grid.Column="2" Grid.Row="8" Text="China"/>
+                <Label x:Name="cur8" Grid.Column="3" Grid.Row="8" Text="Yuan"/>
+                <Label x:Name="sym8" Grid.Column="4" Grid.Row="8" Text="¥"/>
+                <Label x:Name="cod8" Grid.Column="5" Grid.Row="8" Text="CNY"/>
+                <Image x:Name="slika9" Grid.Column="1" Grid.Row="9" Source="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png"/>
+                <Label x:Name="ter9" Grid.Column="2" Grid.Row="9" Text="Sweden"/>
+                <Label x:Name="cur9" Grid.Column="3" Grid.Row="9" Text="Krona"/>
+                <Label x:Name="sym9" Grid.Column="4" Grid.Row="9" Text="kr"/>
+                <Label x:Name="cod9" Grid.Column="5" Grid.Row="9" Text="SEK"/>
+                <Image x:Name="slika10" Grid.Column="1" Grid.Row="10" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png"/>
+                <Label x:Name="ter10" Grid.Column="2" Grid.Row="10" Text="New Zealand"/>
+                <Label x:Name="cur10" Grid.Column="3" Grid.Row="10" Text="NZ Dollar"/>
+                <Label x:Name="sym10" Grid.Column="4" Grid.Row="10" Text="$"/>
+                <Label x:Name="cod10" Grid.Column="5" Grid.Row="10" Text="NZD"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
